@@ -1,15 +1,13 @@
 # Kireipass
 
-GeneLife is a client app of Genesis Healthcare Asia ltd for better serving our clients
+Kireipass is a client app of GMO Kumapon Co. Ltd which provide beauty treatment for people.
 
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 [![Swift Version][swift-image]][swift-url]
 [![CocoaPods Compatible][cocoapods-image]][cocoapods-image] 
 
 
-GeneLife shows user about thier analysis report and guide themselves for a better health 
-
-![](genesis.jpeg)
+There are many people who are interested in beauty treatment for various reasons but it is difficult for them to do it because they have anxiety. Kirei Pass is a service that will ease the anxiety and allow them to experience beauty treatment  more easily.
 
 ## Requirements
 
@@ -21,12 +19,12 @@ GeneLife shows user about thier analysis report and guide themselves for a bette
 Clone the repository: 
 
 ```shell 
-git clone https://github.com/genesis-healthcare/External-GeneLifeApp-iOS.git
+git clone git@github.com:monstar-lab/kireipass_iOS.git
 ```
 Open directory in `terminal`
 
 ```shell 
-  cd path/External-GeneLifeApp-iOS/
+  cd path/kireipass_iOS/
 ```
 Install `bundler` if not installed 
 
