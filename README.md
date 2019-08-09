@@ -1,4 +1,4 @@
-# GeneLife
+# Kireipass
 
 GeneLife is a client app of Genesis Healthcare Asia ltd for better serving our clients
 
@@ -102,6 +102,6 @@ func requestSomething() -> Observable<Result<ResponseType, ErrorType>> {
 }
 ```
 
-[swift-image]:https://img.shields.io/badge/swift-4.2-orange.svg
+[swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
 [swift-url]: https://swift.org/
 [cocoapods-image]: https://img.shields.io/badge/pod-v1.5.3-blue.svg
